@@ -1,0 +1,132 @@
+
+a{
+    color:#000000 ;
+}
+.zentai{
+    width:565px;
+    margin: 0 auto;
+    height:auto;
+}
+
+.oya{
+    position: relative;
+   
+}
+
+.ko{
+    float: left;
+    
+
+}
+
+
+.oya img{
+    width: 100px;
+    height: 100px;
+}
+
+
+.oya ul{
+    float: right;
+    list-style:none;
+    position: absolute;
+    top:50%;
+    transform: translateY(-50%);
+    margin-left: 255px;
+
+    
+}
+a{
+    text-decoration: none;
+}
+.oya ul li{
+    float: left;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+
+div .topimg{
+    background-size:cover;
+    margin-bottom: 20px;
+}
+
+.rist{
+    margin-top: 80px;
+}
+
+
+.rist ul{
+    float: left;
+    list-style:none;
+    padding-left: 0px;
+    margin-top: 80px;
+}
+
+.rist li{
+    margin-bottom: 10px;
+}
+
+.box{width: 150px;
+     height: 50px;
+     background-color: aqua;
+     border: solid 2px blue;
+     
+}
+
+div#right{
+
+    float: right; 
+    width: 400px;
+    margin-left: 25px;
+}
+
+div #right h2{
+    text-align: center;
+}
+
+.clear{
+    clear: both;
+}
+
+
+
+.saigo{
+    margin-top: 0px;
+    background-color: blueviolet;
+}
+
+.pt{
+    float:right;
+    padding-top: 100px;
+ 
+}
+
+.pt a{
+    width: 100px;
+    height: 50px;
+    background-color: aliceblue;
+    margin-right: 5px;
+
+}
+
+dt{
+    float: left;
+    
+}
+
+div #right dt:nth-of-type(odd){
+    background-color: antiquewhite;
+}
+
+dd{
+    float: right;
+}
+
+div #right dd:nth-of-type(odd){
+    background-color: antiquewhite;
+}
+
+div h2{
+    margin-bottom: 30px;
+}
